@@ -1,1 +1,2 @@
 # Accident-Severity-Prediction
+This Streamlit web application predicts the severity of road accidents using a Random Forest Classifier trained on traffic accident data. Users can input details such as weather, road conditions, driver alcohol level, and speed limit to receive instant predictions on accident severity. Built with Python, scikit-learn, and pandas, it offers a simple, interactive, and user-friendly interface for quick real-time analysis.
